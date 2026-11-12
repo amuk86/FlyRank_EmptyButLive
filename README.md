@@ -1,6 +1,6 @@
 # Empty but live
 
-A blank white page with “Amukelani Mabunda” centered on the screen. Built with plain HTML and CSS; no dependencies or build step.
+A blank white page with “Amukelani” centered on the screen. Built with plain HTML and CSS; no dependencies or build step.
 
 ## Preview
 
