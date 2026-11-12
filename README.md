@@ -6,6 +6,18 @@ A blank white page with “Amukelani” centered on the screen. Built with plain
 
 Open `index.html` in your browser.
 
+## Screenshots
+
+Local browser previews at desktop (1440 × 900) and mobile (390 × 844) sizes. The mobile preview does not replace checking the live URL on a phone.
+
+### Desktop
+
+![Desktop preview of Amukelani's page](screenshots/desktop.png)
+
+### Mobile
+
+![Mobile preview of Amukelani's page](screenshots/mobile.png)
+
 ## Host on Vercel
 
 Upload this project to a GitHub repository, then import the repository into Vercel as a new project.
